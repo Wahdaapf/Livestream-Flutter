@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "140230492188",
+    "firebase_url": "https://luellacherine-e8612-default-rtdb.firebaseio.com",
+    "project_id": "luellacherine-e8612",
+    "storage_bucket": "luellacherine-e8612.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140230492188:android:1c82728e0e7b0dbdc41fd9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVgAuiez1a6WGjpWae3q9HRNhad6JckhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
