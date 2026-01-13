@@ -1,16 +1,46 @@
-# flutter_application_1
+# flutter_livestream_test
 
-A new Flutter project.
+A Flutter application for **testing livestream features** and real-time interactions.
 
-## Getting Started
+## 📌 Project Description
 
-This project is a starting point for a Flutter application.
+This project is a **Flutter testing application** focused on implementing and experimenting with **livestream functionality**.  
+The app is built for learning, testing, and exploring real-time features such as live video streaming, user interaction, and performance handling in Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Project Goals
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Learn how livestream systems work in Flutter
+- Test real-time data handling
+- Experiment with UI/UX for livestream features
+- Understand performance considerations for live streaming apps
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- **Flutter**
+- **Dart**
+- Livestream / Real-time SDK *(depending on implementation)*
+- REST API / WebSocket *(optional)*
+
+## 📱 Features (Testing Scope)
+
+- Livestream video playback
+- Basic UI for livestream screen
+- Real-time interaction testing
+- Performance and stability testing
+
+> ⚠️ Features may change frequently as this project is used for testing and experimentation.
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Flutter SDK
+- Dart SDK
+- Android Studio / VS Code
+- Android emulator or physical device
+
+### Installation
+```bash
+git clone https://github.com/Wahdaapf/Livestream-Flutter.git
+cd Livestream-Flutter
+flutter pub get
+flutter run
